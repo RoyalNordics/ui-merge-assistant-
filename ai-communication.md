@@ -1,0 +1,1 @@
+✅ Initialisering gennemført – klar til at starte `001-ui-merge-assistant`.

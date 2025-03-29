@@ -1,0 +1,20 @@
+= Roo Build Masterplan
+:toc:
+:sectnums:
+
+== 001-ui-merge-assistant
+
+Beskrivelse: Kombiner Galileo-design med V0-logik og generér produktionsklar React-komponent.
+
+Input:
+- `galileo.html`
+- V0-komponentmappe
+
+Output:
+- `output/index.tsx`
+- `output/ui.log.json`
+
+Kriterier:
+- Ingen ændringer i V0-logik
+- Galileo UI skal overholdes 1:1
+- Output skal kunne bruges direkte i build
